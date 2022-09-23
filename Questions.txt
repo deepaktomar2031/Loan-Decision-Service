@@ -1,0 +1,43 @@
+They Conduct no QA
+
+leadership principal
+--------------------
+Klarna leadership principal
+-> Customer Obsession
+-> Deliver Results
+-> Let the team shine
+-> Challenge the status quo
+-> Start small and learn fast
+-> Courage
+-> Hire and develop exceptional talent
+-> Detailed thinkers
+
+
+Which Klarna leadership principal best suits you? why?
+Describe a code solution that you are proud of and how did you measure its success.
+What was a project that you were/weren't proud of?
+We have developed a proof of concept of service X. How do we make it production ready?
+when was the last time when you had disagreements with a team or your boss.
+Tell us about a time you worked on a short deadline
+Tell me about one time you had an argument with a colleague 
+Tell me about one time you maintained a good relationship with a customer.
+Describe a time when you had to make a trade off while working on an engineering team
+Explain a time you had to convince people to go with a solution you came up with.
+Explain a difficult time in work history
+Tell me how you solved a difficult work situation in the past
+
+
+tech question
+-------------
+What is the difference between POST and PUT HTTP requests?
+the general concept of javascript
+There was a question about stacks and queues.
+How can you make sure there's only one master in a mesh of nodes?
+How can you implement a queue with just a stack?
+In JS, how you can share info between views on single-page applications?
+Write a method which gets a number as int[] (each digit will be an array element) and add 1 to it and return the result as an other int[], [2,6,9] -> [2,7,0]
+Mask some digits of a credit card number
+Some DFS question to find the shortest path
+
+
+https://github.com/EnzoMartin/klarna-code-test
