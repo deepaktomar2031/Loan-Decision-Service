@@ -1,12 +1,12 @@
 {
-  "name": "Credit_Decision_Backend",
+  "name": "loan-decision-service",
   "version": "1.0.0",
-  "repository": "https://github.com/deepaktomar2031/Credit_Decision_Backend",
+  "repository": "https://github.com/deepaktomar2031/Loan-Decision-Service",
   "author": "Deepak Tomar",
   "license": "UNLICENSED",
   "main": "bin/www",
   "bin": {
-    "credit-service": "./bin/www"
+    "loan-decision-service": "./bin/www"
   },
   "private": true,
   "engines": {

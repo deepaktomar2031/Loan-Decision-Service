@@ -1,6 +1,6 @@
-# Credit Decision Service
+# Loan Decision Service
 
-A simple service for making credit decisions based on purchase amount and total
+A simple service for making loan decisions based on purchase amount and total
 outstanding debt.
 
 # Requirements
@@ -57,12 +57,3 @@ To attach a debugger, open up [chrome://inspect](chrome://inspect) in Chrome or
 Chromium, click `Open dedicated DevTools for Node`, add `localhost:9230` to the
 list of remote targets if it is not already there, and then select the remote
 target that shows up.
-
-# Contributing
-
-Make sure your code passes all the tests and adds any new applicable ones.
-
-The project uses [Prettier](https://github.com/prettier/prettier) for
-formatting, and commits will fail if they are not properly formatted. `yarn
-format` / `npm run format` will format the project for you, if your editor is
-not set up to do so automatically.
